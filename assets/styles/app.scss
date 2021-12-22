@@ -1,0 +1,8 @@
+/* Custom Green version */
+
+// Override default variables
+$primary-500: #4caf50;
+$primary-600: #43a047;
+$primary-700: #388e3c;
+
+@import "~@picocss/pico/scss/pico.scss";
